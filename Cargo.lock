@@ -27,6 +27,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "day3"
+version = "0.1.0"
+dependencies = [
+ "global",
+ "parse-display",
+]
+
+[[package]]
 name = "global"
 version = "0.1.0"
 
