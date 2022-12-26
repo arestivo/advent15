@@ -1,0 +1,15 @@
+[package]
+name = "day4"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+global = {path = "../global"}
+parse-display = "0.8.0"
+md5 = "0.7.0"
+
+[[bin]]
+name = "day4a"
+
+[[bin]]
+name = "day4b"
