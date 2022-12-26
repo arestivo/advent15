@@ -3,4 +3,5 @@
 members = [
     "global",
     "day1",
+    "day2",
 ]
