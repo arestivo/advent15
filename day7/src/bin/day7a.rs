@@ -30,12 +30,3 @@ fn value(s: &str, wires: &mut HashMap<String, Wire>) -> u16 {
 
   v
 }
-
-#[cfg(test)]
-mod tests {
-  use super::*;
-
-  #[test]
-  fn is_on_works() {
-  }
-}
