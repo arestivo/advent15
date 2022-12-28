@@ -1,4 +1,4 @@
-use parse_display::helpers::regex::Regex;
+use regex::Regex;
 
 fn main () {
   let json = global::read_line();
