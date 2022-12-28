@@ -6,7 +6,6 @@ edition = "2021"
 [dependencies]
 global = {path = "../global"}
 parse-display = "0.8.0"
-fancy-regex = "0.10.0"
 
 [[bin]]
 name = "day11a"
