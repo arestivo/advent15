@@ -81,6 +81,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "day15"
+version = "0.1.0"
+dependencies = [
+ "global",
+ "parse-display",
+ "priority-queue",
+]
+
+[[package]]
 name = "day2"
 version = "0.1.0"
 dependencies = [
