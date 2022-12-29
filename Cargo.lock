@@ -54,6 +54,14 @@ name = "day12"
 version = "0.1.0"
 dependencies = [
  "global",
+ "regex",
+]
+
+[[package]]
+name = "day13"
+version = "0.1.0"
+dependencies = [
+ "global",
  "parse-display",
 ]
 
