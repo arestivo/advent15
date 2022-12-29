@@ -42,7 +42,7 @@ pub fn lines_to_instructions(lines: &[String]) -> Vec<Instruction> {
   lines
     .iter()
     .map(|s| s.replace("turn ", "turn_"))
-    .map(|s| s.parse::<Instruction>())
+    .map(|s| s.parse())
     .map(Result::unwrap)
     .collect()
 }
