@@ -1,5 +1,5 @@
 [package]
-name = "day24"
+name = "day25"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,7 +7,4 @@ edition = "2021"
 global = {path = "../global"}
 
 [[bin]]
-name = "day24a"
-
-[[bin]]
-name = "day24b"
+name = "day25a"
